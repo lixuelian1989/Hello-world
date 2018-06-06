@@ -8,3 +8,4 @@ echo "在testA分支上添加的一条记录";
 echo "add testB branch";
 
 echo "make error branch";
+#获取了远程的分支

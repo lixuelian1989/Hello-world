@@ -9,3 +9,4 @@ echo "add testB branch";
 
 echo "make error branch";
 #获取了远程的分支
+echo "关闭连接";
